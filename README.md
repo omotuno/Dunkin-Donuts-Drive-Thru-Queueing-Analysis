@@ -23,3 +23,7 @@
 
 
 #### The analysis provides insight into queueing behavior but is limited by the data collected. Further observation to capture node-level service times would allow for more detailed modeling.
+
+
+##### code= Queuing.pdf
+##### writeup= Queuing Project.pdf
