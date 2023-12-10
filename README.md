@@ -1,7 +1,6 @@
 # Dunkin' Donuts Drive-Thru Queueing Analysis
 
-The project file can be found [here](https://github.com/omotuno/Dunkin-Donuts-Drive-Thru-Queueing-Analysis/blob/main/Queuing%20Project%20.pdf), the code can be founde [here]
-(https://github.com/omotuno/Dunkin-Donuts-Drive-Thru-Queueing-Analysis/blob/main/Queuing%20Code.pdf)
+The project file can be found [here](https://github.com/omotuno/Dunkin-Donuts-Drive-Thru-Queueing-Analysis/blob/main/Queuing%20Project%20.pdf), the code can be founde [here](https://github.com/omotuno/Dunkin-Donuts-Drive-Thru-Queueing-Analysis/blob/main/Queuing%20Code.pdf)
 ### This project analyzes the queueing process at a Dunkin' Donuts drive-thru location in Bowling Green, OH. Queueing data was collected for 54 cars over a 90 minute morning peak period. The analysis focuses on the following:
 
 -- Calculating inter-arrival times, queueing times, service times, and waiting times
